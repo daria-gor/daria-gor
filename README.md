@@ -1,4 +1,8 @@
-
+![](https://komarev.com/ghpvc/?username=daria-gor)
+<!---Для компактной версии-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daria-gor&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daria-gor&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daria-gor&theme=default)
 <!--
 ## Hi there 👋
 
